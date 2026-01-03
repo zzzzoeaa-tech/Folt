@@ -626,4 +626,4 @@ quick_menu() {
     echo -e "${YELLOW}[*] All tools ready to use immediately${NC}"
     
     while true; do
-        echo -e "\n${CYAN}══════════════════ QUICK MENU ════════════
+        echo -e "\n${CYAN}══════════════════ QUICK MENU ════════════"
